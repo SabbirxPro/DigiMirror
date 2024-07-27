@@ -261,7 +261,7 @@ def bot_sys_stats():
     bmsg += f"S: {swap}% | "
     bmsg += f"D: {disk}%\n\n"
     bmsg += f"Bandwidth Used: {traf}\n"
-    bmsg += f"{def_media(BASE.encode()).decode()}"
+    bmsg += f"Made BY BLack Max"
     return bmsg
 
 
