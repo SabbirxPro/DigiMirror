@@ -10,7 +10,7 @@ mirror = """
 <b>NOTE:</b>
 1. Commands that start with <b>qb</b> are ONLY for torrents.
 
-<b>Join: @Z_Mirror</b>
+<b>Join: @MirrorCloudBD</b>
 """
 
 yt = """
@@ -25,7 +25,7 @@ yt = """
 Check all supported <a href='https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md'>SITES</a>
 Check all yt-dlp API options from this <a href='https://github.com/yt-dlp/yt-dlp/blob/master/yt_dlp/YoutubeDL.py#L184'>FILE</a> or use this <a href='https://t.me/mltb_official_channel/177'>script</a> to convert CLI arguments to API options.
 
-<b>Join: @Z_Mirror</b>
+<b>Join: @MirrorCloudBD</b>
 """
 
 clone = """
